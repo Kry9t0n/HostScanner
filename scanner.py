@@ -34,7 +34,3 @@ class Scanner:
         
             
             
-if __name__ == '__main__':
-    sc = Scanner(19, '192.168.0.XXX', 0)
-    sc.scan()
-    sc.printRES()
